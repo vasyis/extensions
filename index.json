@@ -1,0 +1,10 @@
+{
+  "sources": [
+    {
+      "name": "MiFuente",
+      "baseUrl": "https://zonatmo.com",
+      "lang": "es",
+      "type": "manga"
+    }
+  ]
+}
